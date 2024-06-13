@@ -1,4 +1,4 @@
-[](template/Capa-campo-hamonico.png)
+![](template/Capa-campo-hamonico.png)
 
 
 ### O que é campo harmônico?
@@ -23,7 +23,7 @@ Para identificar o campo harmônico de uma música, veja onde a música parece "
 ### Exemplo
 Suponha que você está tocando uma música com os acordes C, G, Am e F. Esses acordes são todos do campo harmônico de Dó maior, sugerindo que a música está nessa tonalidade. Outro exemplo: se os acordes são D, A, Bm e G, então a música provavelmente está no campo harmônico de Ré maior. Comparar os acordes da música com os acordes dos campos harmônicos conhecidos ajuda a encontrar a tonalidade certa.
 
-[](template/campo-hamonico-menor.png)
+![](template/campo-hamonico-menor.png)
 O campo harmônico menor é similar ao maior, mas usa a escala menor. Ele cria uma sensação mais sombria ou melancólica. Por exemplo, a escala de Lá menor (A B C D E F G) tem acordes diferentes do campo harmônico maior. No campo harmônico menor, a sequência de acordes também tem um padrão específico, mas diferente do maior.
 
 ### Exemplo de campo harmônico menor
@@ -47,7 +47,7 @@ No contrabaixo, você pode aplicar o campo harmônico de várias maneiras. Uma d
 ## Grooves
 Para criar grooves usando o campo harmônico, você pode experimentar diferentes ritmos e padrões de notas que se encaixem bem com os acordes da progressão harmônica. Por exemplo, você pode usar padrões rítmicos simples, como padrões de semínima ou colcheia, e adicionar variações rítmicas para criar interesse. Além disso, você pode experimentar com técnicas de sincopação e acentuação para adicionar groove à sua linha de baixo. Lembre-se de prestar atenção ao contexto da música e manter uma conexão sólida com o ritmo e a harmonia geral.
 
-[](template/conclusao.png)
+![](template/conclusao.png)
 E aí, galera! Chegamos ao fim desse papo sobre campo harmônico. Espero que vocês tenham curtido aprender um pouco mais sobre como os acordes funcionam na música. Ah, só pra lembrar, esse conteúdo foi criado por uma I.A. (Inteligência Artificial) mas eu, humano aqui, dei uma revisada pra garantir que tá tudo certo. Valeu por acompanhar! Se quiser mais conteúdo, me segue lá no LinkedIn.
 
 ## Fontes de produção:
