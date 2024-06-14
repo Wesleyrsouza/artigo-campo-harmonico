@@ -12,7 +12,7 @@ Funciona assim: cada nota da escala vira a base de um acorde, e esses acordes se
 
 
 
-![](template/campo-hamonico-maior.png)
+![](../template/campo-hamonico-maior.png)
 
 
 
@@ -35,7 +35,7 @@ Suponha que você está tocando uma música com os acordes C, G, Am e F. Esses a
 
 
 
-![](template/campo-hamonico-menor.png)
+![](../template/campo-hamonico-menor.png)
 
 
 
@@ -66,7 +66,7 @@ Para criar grooves usando o campo harmônico, você pode experimentar diferentes
 
 
 
-![](template/conclusao.png)
+![](../template/conclusao.png)
 
 
 
