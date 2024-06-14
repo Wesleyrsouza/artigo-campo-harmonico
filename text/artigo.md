@@ -1,4 +1,4 @@
-![](/../template/Capa-campo-hamonico.png)
+![](../template/Capa-campo-hamonico.png)
 
 
 
