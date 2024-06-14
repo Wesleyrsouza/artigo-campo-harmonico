@@ -3,7 +3,7 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluno na plataforma da [DIO](https://dio.me)
 
-<a href="https://web.dio.me/articles/transforme-sua-codificacao-desvendando-conceitos-fundamentais-da-poo?back=%2Farticles&page=1&order=oldest"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Wesleyrsouza/artigo-campo-harmonico/blob/master/text/artigo.md"> 📕Clique aqui para ler</a>
 
 Projeto com o objetivo de gerar um artigo digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
